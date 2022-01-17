@@ -1,0 +1,21 @@
+{
+  "name": "rxjs-playground",
+  "version": "1.0.0",
+  "description": "rxjs operators",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionutdiaconu/rxjs-playground.git"
+  },
+  "author": "ionut diaconu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ionutdiaconu/rxjs-playground/issues"
+  },
+  "homepage": "https://github.com/ionutdiaconu/rxjs-playground#readme",
+  "dependencies": {
+    "rxjs": "6.3.2"
+  }
+
+}
