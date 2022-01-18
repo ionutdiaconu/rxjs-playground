@@ -1,11 +1,3 @@
-/*
- * 
- Author: David Mann 
- (c) 2018, Mann Software: MIT License
- 
- */
-
-// windowWhen
 //    buffer values
 //    on receiving signals from the notifier
 //      send the buffer as an observable
